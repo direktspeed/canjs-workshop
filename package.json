@@ -11,6 +11,6 @@
     "grunt-contrib-watch": "^1.0.0",
     "require-can-renderers" : "^0.0.2",
     "shelljs": "0.7.5",
-    "jsesc": "^2.2.0"
+    "jsesc": "^2.3.0"
   }
 }
