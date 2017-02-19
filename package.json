@@ -5,7 +5,7 @@
     "can-compile" : "~0.10.2",
     "grunt-contrib-requirejs" : "~1.0.0",
     "grunt-exec" : "~1.0.1",
-    "requirejs" : "~2.3.2",
+    "requirejs" : "~2.3.3",
     "grunt-contrib-connect" : "~1.0.2",
     "grunt-contrib-less": "^1.4.0",
     "grunt-contrib-watch": "^1.0.0",
